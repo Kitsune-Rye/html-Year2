@@ -1,0 +1,28 @@
+#Search{
+    margin-bottom: 93vh;
+}
+#titleHead{
+  font-weight: bold;
+  color: purple;
+  font-size: 30px;
+}
+
+body{
+    background-color:#030311;
+    color: whitesmoke;
+
+
+.navColor{
+    font-size: 19px;    
+
+}
+.navColor .nav-item .nav-link {
+    color: white !important;
+    background-color: purple;
+
+  }
+  
+
+  .navColor .nav-link:hover {
+    color: lightblue !important; 
+  }
